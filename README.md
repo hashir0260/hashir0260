@@ -1,58 +1,75 @@
-<h1 align="center">Hi 👋, I'm Hashir Ali</h1>
-<h3 align="center">A passionate BS Software Engineering student and aspiring Full Stack Web Developer</h3>
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🌱 I’m currently learning **Full Stack Web Development**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Express.js, Next.js, MongoDB, MySQL, Java, Kotlin, C++, Git, Firebase**
-
-- 📫 How to reach me **hashir0260@gmail.com**
-
-- 📹 I also create content on [YouTube](https://www.youtube.com/@lifeofhashir)
+<!-- Banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hey+%F0%9F%91%8B%2C+I'm+Hashir+Ali!;A+BS+Software+Engineering+Student+%F0%9F%92%BB;Aspiring+Full+Stack+Web+Developer+%F0%9F%92%AA;Loves+building+cool+things+on+the+web+%F0%9F%9A%80" alt="Typing SVG" />
 
 ---
 
-### 🛠️ Languages and Tools
-
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="next.js" width="40" height="40"/> </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express.js" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<h3 align="center">🚀 Hashir Ali | Full Stack Developer in Progress 🧠</h3>
+<p align="center">
+  🎓 BS Software Engineering Student &nbsp; | &nbsp; 🧑‍💻 Currently diving into MERN stack and beyond!
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 About Me
+
+- 🎯 Focused on building full stack apps using **React.js**, **Express.js**, and **Next.js**
+- 💬 Fluent in **JavaScript**, **MongoDB**, **MySQL**, **Java**, **Kotlin**, **C++**
+- 🚀 Currently exploring **Firebase**, **Git**, and deployment workflows
+- 🎥 I make dev + life content on [YouTube](https://www.youtube.com/@lifeofhashir)
+- 📫 Reach me at **hashir0260@gmail.com**
+
+---
+
+### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hashir0260&show_icons=true&locale=en&theme=radical" alt="hashir0260" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashir0260&theme=radical" alt="hashir0260" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hashir0260&show_icons=true&locale=en&layout=compact&theme=radical" alt="hashir0260" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,java,kotlin,cpp,git,firebase,vscode" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 📈 GitHub Stats & Activity
 
-<p align="left">
-  <a href="https://github.com/hashir0260" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="hashir0260" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/hashir-ali-069080303/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@lifeofhashir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="30" width="40" /></a>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hashir0260&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hashir0260&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashir0260&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/hashir0260">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hashir-ali-069080303/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@lifeofhashir">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+> “Code never lies, comments sometimes do.” 😄
+
+---
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3pmMm5jMW5zeGR6ODJndW5keTN0a3FmbXRqNHYzdHJnNmFiODljciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HyOOyynWxMxig/giphy.gif" width="150" height="150" style="object-fit: cover;" title="First GIF" />
+  
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjhiZTd6cmMxemx6cXh0OGh1cWJpbTIyZDJ5cmk5YWc3b2pqYTkxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okWCAjMp0pInC/giphy.gif" width="150" height="150" style="object-fit: cover;" title="Cat typing fast" />
+  
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3A2czA2dDF3dm8wZDg0b2F0ZGN1d2V2ZHdjZ3RwcHFzc3htZjIxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gA5zANSD2J7cA/giphy.gif" width="150" height="150" style="object-fit: cover;" title="Cute coding cat" />
+  
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDA4ZnIxbXd3dTJmbDZqZjdlNDFuZTJiYnY1YmpucXVzYnFvZTZ3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C1U9zEg0gS8mY/giphy.gif" width="150" height="150" style="object-fit: cover;" title="Doggo coding" />
+  
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2p1dmx0NngxZHByOTZheXRkZHhvZDMxeHo1YmdvOTMzaDhmY2txYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zw1LjU07TwWqY/giphy.gif" width="150" height="150" style="object-fit: cover;" title="Happy coder dog" />
+  
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Z3ajZuMHU0eHg5eXY2Zjl4c2RoeXNxcTJiOTM5YXZxYzRva3p1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EcnAlQcGnZq9y/giphy.gif" width="150" height="150" style="object-fit: cover;" title="Last GIF" />
 </p>
