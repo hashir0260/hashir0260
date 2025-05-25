@@ -56,7 +56,7 @@
 ---
 
 ### ⚡ Fun Fact
-> “Code never lies, comments sometimes do.” 😄
+> 😴 Sleep → 🍜 Eat → 💻 Code → 🔁 Repeat
 
 ---
 
