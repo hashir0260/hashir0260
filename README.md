@@ -30,14 +30,7 @@
 
 ### 📈 GitHub Stats & Activity
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hashir0260&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hashir0260&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashir0260&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hashir0260&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="49%" alt="Hashir's GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=hashir0260&theme=radical&hide_border=true" width="49%" alt="Hashir's GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=hashir0260&theme=react-dark&area=true&hide_border=true" alt="Hashir's GitHub Activity Graph" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashir0260&layout=compact&theme=radical&hide_border=true" width="40%" alt="Top Languages" /> </p>
 
 ### 🌐 Connect With Me
 
