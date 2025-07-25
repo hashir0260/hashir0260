@@ -15,7 +15,7 @@
 - 💡 Passionate about **creating beautiful, responsive websites**
 - 📚 Currently focused on **Frontend Web Development**
 - 💻 Learning **HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap**
-- 🎥 I make dev + life content on [YouTube](https://www.youtube.com/@lifeofhashir), [TikTok](https://www.tiktok.com/@devwithhashir_?is_from_webapp=1&sender_device=pc), and [Instagram](https://www.instagram.com/devwithhashir_)
+- 🎥 I make dev + life content on [YouTube](https://www.youtube.com/@devwithhashir), [TikTok](https://www.tiktok.com/@devwithhashir_?is_from_webapp=1&sender_device=pc), and [Instagram](https://www.instagram.com/devwithhashir_)
 - 📫 Reach me at **hashir0260@gmail.com**
 
 ---
@@ -54,9 +54,9 @@
   <a href="https://www.linkedin.com/in/hashir-ali-069080303/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@lifeofhashir">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+ <a href="https://www.youtube.com/@devwithhashir">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
   <a href="https://www.tiktok.com/@devwithhashir_?is_from_webapp=1&sender_device=pc">
     <img src="https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
